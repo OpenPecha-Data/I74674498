@@ -1,0 +1,30 @@
+id: I74674498
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-15T20:17:42.752688'
+last_modified: '2022-06-15T20:17:42.752693'
+parser: null
+source_metadata:
+  title: Abhidharmakośa Series
+  language: bo
+  description: 'Texts related to the Abhidharmakośa (chos mngon pa mdzod), or Treasury
+    of Abhidharma, by Vasubandhu:'
+  volume:
+    f7847:
+      title: 'Light on the Path of Liberation: The Life of the Second Buddha Vasubandhu'
+      base_file: f7847.txt
+      order: 1
+      parent: Biography
+    f9E48:
+      title: Synopsis of the Treasury of Abhidharma (Abhidharmakośa)
+      base_file: f9E48.txt
+      order: 2
+      parent: Outline
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
